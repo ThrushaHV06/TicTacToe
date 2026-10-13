@@ -1,0 +1,33 @@
+# Tic-Tac-Toe Game
+
+## About the Project
+This project is a two-player Tic-Tac-Toe game developed using Python
+as part of my Python Developer Internship at Intern Infobyte.
+
+Players take turns placing X and O on a 3x3 board.
+The game checks for winning combinations and identifies a tie
+when all cells are filled without a winner.
+
+## Features
+- Interactive 3x3 game board
+- Two-player gameplay
+- Automatic winner detection
+- Tie detection
+- Input validation
+- Option to play again
+
+## Technologies Used
+- Python 3
+
+## How to Run
+
+1. Install Python 3.
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Run the command:
+
+   python tic_tac_toe.py
+
+## Internship
+Python Developer Intern
+Intern Infobyte
